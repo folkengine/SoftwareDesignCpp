@@ -19,3 +19,9 @@ add_subdirectory(CH_01/Program1.1-Mak-Changes)
 add_subdirectory(CH_01/Program1.2-Mak-Complexity)
 add_subdirectory(CH_01/Program1.3-Mak-Inflexible)
 add_subdirectory(CH_01/Program1.4-Mak-Surprise)
+
+add_subdirectory(CH_02/Program2.1-Mak-Books-1)
+add_subdirectory(CH_02/Program2.2-Mak-Books-2)
+
+
+
